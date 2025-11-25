@@ -13,17 +13,18 @@ SOFTWARE REQUIRED:
 6.	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
-## CIRCUIT DIAGRAM: Inverting amplifier: 
+## CIRCUIT DIAGRAM & GRAPH: Inverting amplifier: 
+<img width="1252" height="1600" alt="image" src="https://github.com/user-attachments/assets/dbbf6f7a-0ff2-4fa7-b605-bf12c63747f3" />
 
-## GRAPH: Inverting amplifier: 
 
-## CIRCUIT DIAGRAM: Non inverting amplifier:
+## CIRCUIT DIAGRAM & GRAPH: Non inverting amplifier:
+<img width="981" height="1280" alt="image" src="https://github.com/user-attachments/assets/009e1269-61f7-4ba8-931f-40e6befeffb2" />
 
-## GRAPH: Non inverting amplifier:
 
-## CIRCUIT DIAGRAM: Differential amplifier: 
+## CIRCUIT DIAGRAM & GRAPH: Differential amplifier: 
+<img width="939" height="1280" alt="image" src="https://github.com/user-attachments/assets/2714b789-4cba-414a-a2e0-41ce8cce9d31" />
 
-## GRAPH: Differential amplifier:
 
 ## RESULT:
+<img width="939" height="1280" alt="image" src="https://github.com/user-attachments/assets/abbb5aef-76e8-4cc8-98e8-2d7bde2f3727" />
 
