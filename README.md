@@ -26,5 +26,6 @@ SOFTWARE REQUIRED:
 
 
 ## RESULT:
-<img width="939" height="1280" alt="image" src="https://github.com/user-attachments/assets/abbb5aef-76e8-4cc8-98e8-2d7bde2f3727" />
+<img width="1280" height="766" alt="image" src="https://github.com/user-attachments/assets/dac01c05-c308-4c53-a58d-ef8d2190a47f" />
+
 
